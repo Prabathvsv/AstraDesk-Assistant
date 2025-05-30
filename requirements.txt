@@ -1,0 +1,10 @@
+pyttsx3
+datetime
+speechrecognition
+wikipedia
+pywhatkit
+pyjokes
+plyer
+pillow
+pipwin
+pyaudio
